@@ -8,7 +8,7 @@ The dashboard provides insights into monthly sales performance, quantity ordered
 
 ## Dashboard Preview
 
-![Sales Product Dashboard](Dashboard.png)
+![Sales Product Dashboard](Dashboard%201.png)
 
 ## Key Dashboard Features
 
